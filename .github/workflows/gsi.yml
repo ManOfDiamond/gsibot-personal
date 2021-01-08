@@ -22,7 +22,7 @@ jobs:
               sudo -E apt-get -qq install bc build-essential zip curl libstdc++6 git wget python gcc clang libssl-dev rsync flex bison ccache openjdk-8-jdk expect aria2
               git config --global user.name "ManOfDiamond"
               git config --global user.email "PULKIT15395smsjp@saintmarksschool.in"
-              git clone --recurse-submodules https://github.com/nnippon/ErfanGSIs
+              git clone --recurse-submodules https://github.com/ManOfDiamond/ErfanGSIs
      
      
        - name: Setup Erfan Tools
