@@ -65,7 +65,7 @@ jobs:
          timeout-minutes: 350
          run: |
               sudo chmod -R 0777 *
-              sudo java -jar GSIBot.jar
+              sudo java -jar BoboBot-1-all.jar
          
        - name: +1 
          continue-on-error: true
