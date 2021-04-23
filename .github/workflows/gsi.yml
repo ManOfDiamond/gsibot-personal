@@ -36,7 +36,7 @@ jobs:
          continue-on-error: true
          timeout-minutes: 3
          run: |
-              java -jar GSIBot.jar
+              java -jar BoboBot-1-all.jar
          
        - name: Add values
          continue-on-error: true
